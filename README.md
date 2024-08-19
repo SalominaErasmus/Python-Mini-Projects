@@ -1,5 +1,5 @@
 Python Mini Games
-Welcome to Python Mini Games! This repository contains simple Python games, including a computer quiz game and a Rock-Paper-Scissors game.
+Welcome to Python Mini Games! This repository contains simple Python games, including a computer quiz game, Rock-Paper-Scissors game and an adventure game.
 
 Games Included
 1. Computer Quiz Game
@@ -21,6 +21,14 @@ The computer randomly selects its choice.
 The game keeps track of wins for both the player and the computer.
 The player can type "Q" to quit the game.
 
+3. Adventure Game
+A text-based adventure game where your choices determine the outcome.
+
+How It Works:
+
+The player is presented with various choices that lead to different paths and outcomes.
+The game has multiple endings based on the player's decisions.
+
 Getting Started
 Prerequisites
 Python 3.x installed on your computer.
@@ -38,5 +46,8 @@ python quiz_game.py
 
 Rock-Paper-Scissors Game:
 python rps_game.py
+
+Adventure Game:
+python adventure_game.py
 
 Follow the on-screen instructions to play!
